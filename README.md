@@ -405,18 +405,6 @@ def load_historical_data(symbol, start_date, end_date):
 - Nombre de Trades : 10-15
 - Taux de Réussite : ~55-60%
 ```
-
----
-
-##  Auteur
-
-**Projet réalisé dans le cadre du module :**  
-*Mathématiques Appliquées au Traitement des Données*
-
-**Encadrant :** M. Hamza Saber
-
----
-
 ##  Licence
 
 Ce projet est à usage pédagogique uniquement.
